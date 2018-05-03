@@ -20,4 +20,11 @@ private String modele;
 
     public Car() {
     }
+
+    @Override
+    public String toString() {
+        return "Car{" +
+                "modele='" + modele + '\'' +
+                '}';
+    }
 }
