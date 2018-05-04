@@ -22,7 +22,7 @@ public class Nouvelle {
                 "place='" + place + '\'' +
                 '}';
     }
-
+//cooment
     public Nouvelle(String place) {
         this.place = place;
     }
