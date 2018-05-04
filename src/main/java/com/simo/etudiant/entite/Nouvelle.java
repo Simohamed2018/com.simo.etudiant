@@ -6,7 +6,7 @@ package com.simo.etudiant.entite;
 public class Nouvelle {
 
     //coomentaire
-    private String place;
+    protected String place;
 
     public String getPlace() {
         return place;
